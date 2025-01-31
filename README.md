@@ -3,7 +3,7 @@
 Проект на языке с#, который сичтает код прюфера по дереву, описаннному в файле "input", с использованием классов, структур.
 
 >  [!NOTE]
-> Начальный проект расположен в ветке <a href=https://github.com/sedypana/code_prufer/tree/master>master</a>
+> Начальный проект расположен в ветке <a href=https://github.com/sedypana/code_prufer/tree/master>master</a><br>
 > Рефакторинг кода находится в ветке <a href=https://github.com/sedypana/code_prufer/tree/refactoring>refactoring</a>
 
 ## Начало работы
