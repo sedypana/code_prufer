@@ -14,7 +14,7 @@ namespace ConsoleApp3
         public Graph(int[][] adjacencyMatrix)
         {
             if (adjacencyMatrix == null)
-                throw new PrufCodeException("Матрица смежности не может быть null.");
+                throw new PrufCodeException("Матрица смежности не может быть nul.");
 
             _adjacencyList = adjacencyMatrix.Select(row => row.ToList()).ToList();
         }
